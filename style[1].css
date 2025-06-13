@@ -1,0 +1,52 @@
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  background-color: #fff6f1;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #fb8a3a;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+main {
+  padding: 2em;
+}
+
+footer {
+  background-color: #fb8a3a;
+  color: white;
+  text-align: center;
+  padding: 1em;
+  margin-top: 2em;
+}
+
+.dog-photo {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 2em auto;
+}
+
+.logo {
+  display: block;
+  margin: 1em auto;
+  max-width: 200px;
+}
+.dog-photo-small {
+  width: 100%;
+  max-width: 400px;
+  display: block;
+  margin: 2em auto;
+}
